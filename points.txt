@@ -1,0 +1,16 @@
+Somebody, 50580137
+Somebody, 16680000
+B, 4321
+Danny, 2209
+A, 1234
+C, 555
+Somebody, 276
+D, 123
+Somebody, 100
+Somebody, 23
+Somebody, 19
+Somebody, 0
+Somebody, 0
+Somebody, 0
+Somebody, 0
+Somebody, 120
